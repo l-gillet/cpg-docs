@@ -195,4 +195,4 @@ Feature List
 
 
 .. |IRoot| replace:: ``IRoot``
-.. _IRoot: features/0x0000-IRoot.rst
+.. _IRoot: :doc: features/0x0000-IRoot.rst
